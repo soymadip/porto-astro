@@ -13,8 +13,8 @@
     "education"
   ],
   "scope": "/",
-  "theme_color": "#1e1e2e",
-  "background_color": "#1e1e2e",
+  "theme_color": "#18191a",
+  "background_color": "#18191a",
   "display": "standalone",
   "orientation": "natural",
   "icons": [
@@ -66,20 +66,6 @@
       "icons": [
         {
           "src": "/favicon/icon-blog-192x192.png",
-          "type": "image/png",
-          "sizes": "192x192",
-          "purpose": "any"
-        }
-      ]
-    },
-    {
-      "name": "Tasks",
-      "short_name": "Tasks",
-      "description": "View my tasks",
-      "url": "/tasks",
-      "icons": [
-        {
-          "src": "/favicon/icon-tasks-192x192.png",
           "type": "image/png",
           "sizes": "192x192",
           "purpose": "any"
