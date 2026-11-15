@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost/sitemap.xml
+Sitemap: https://soymadip.is-a.dev/porto-astro/sitemap.xml
