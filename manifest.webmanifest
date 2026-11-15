@@ -1,0 +1,90 @@
+{
+  "name": "Portosaur",
+  "short_name": "Portosaur",
+  "description": "My Digital space, personal knowledge base & blogging platform",
+  "version": "1.0",
+  "id": "/?source=pwa",
+  "start_url": "/",
+  "lang": "en",
+  "categories": [
+    "social",
+    "productivity",
+    "lifestyle",
+    "education"
+  ],
+  "scope": "/",
+  "theme_color": "#1e1e2e",
+  "background_color": "#1e1e2e",
+  "display": "standalone",
+  "orientation": "natural",
+  "icons": [
+    {
+      "src": "/favicon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Notes",
+      "short_name": "Notes",
+      "description": "Read the Notes",
+      "url": "/docs",
+      "icons": [
+        {
+          "src": "/favicon/icon-note-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Blog",
+      "short_name": "Blog",
+      "description": "Checkout latest Blog Posts",
+      "url": "/blog",
+      "icons": [
+        {
+          "src": "/favicon/icon-blog-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Tasks",
+      "short_name": "Tasks",
+      "description": "View my tasks",
+      "url": "/tasks",
+      "icons": [
+        {
+          "src": "/favicon/icon-tasks-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192",
+          "purpose": "any"
+        }
+      ]
+    }
+  ]
+}

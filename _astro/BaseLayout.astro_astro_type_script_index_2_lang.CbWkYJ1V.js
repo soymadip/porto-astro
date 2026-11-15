@@ -1,0 +1,1 @@
+import"./prefetch-gate.C70wHs9o.js";
